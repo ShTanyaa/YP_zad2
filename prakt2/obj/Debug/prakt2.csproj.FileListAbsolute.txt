@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.Form1.resources
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.Properties.Resources.resources
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\bin\Debug\prakt2.exe.config
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\bin\Debug\prakt2.exe
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\bin\Debug\prakt2.pdb
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.exe
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\prakt2\obj\Debug\prakt2.pdb
